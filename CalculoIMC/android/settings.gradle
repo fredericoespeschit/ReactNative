@@ -1,0 +1,3 @@
+rootProject.name = 'CalculoIMC'
+
+include ':app'
